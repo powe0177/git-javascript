@@ -1,3 +1,3 @@
-#Git JavaScript
+# Git JavaScript
 
-##Allison Power
+## Allison Power
